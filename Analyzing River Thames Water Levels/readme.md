@@ -1,0 +1,1 @@
+ For this project, you will work with one of these files, 10-11_London_Bridge.txt, which contains comma separated values for water levels in the Thames River at the London Bridge. After you've finished the project, you can use your same code to analyze data from the other files (at other spots in the UK where tidal data is collected) if you'd like.
